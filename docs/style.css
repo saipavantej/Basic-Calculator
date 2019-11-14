@@ -1,0 +1,45 @@
+
+input
+{
+    font-size: 80px;
+    border-radius: 10px;
+
+    padding:5px;
+    background-color:black;
+    color: white;
+    
+}
+
+.display{
+    text-align: left;
+}
+
+
+.row
+{
+  margin-top: 10px; 
+  margin-right: 5px;
+    
+}
+
+/*orange button*/
+
+.btno 
+{
+ color:darkorange;   
+}
+.btnw
+{
+ color:white;
+}
+body {
+    background-color: green;
+}
+
+.brand
+{
+
+    text-align: center;
+    margin: 10px;
+}
+
